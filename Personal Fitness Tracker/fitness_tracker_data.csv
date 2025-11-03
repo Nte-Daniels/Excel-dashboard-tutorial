@@ -1,0 +1,305 @@
+Date,Day_of_Week,Day num,Exercise_Type,Specific_Exercise,Duration_mins,Calories_Burned,Actual_Weight_kg,Expected_Weight_kg,Heart_Rate_bpm,Steps,Sleep_hours,Intensity,Notes,Travel_Week,Illness
+1/6/2025,Monday,1,Cardio,Jump Rope,81,948,113.4,113.4,162,10525,8.1,Medium,Intervals,FALSE,FALSE
+1/13/2025,Monday,1,Cardio,Swimming,37,307,113.1,111.7,152,12913,6,High,Hot weather,FALSE,FALSE
+1/20/2025,Monday,1,Cardio,Swimming,38,330,111,110.2,170,11070,6.1,Medium,Evening run,FALSE,FALSE
+1/27/2025,Monday,1,Cardio,Running,45,419,110.7,108.7,161,8636,6.4,Medium,Felt strong,FALSE,FALSE
+2/3/2025,Monday,1,Rest,Rest Day,0,0,110.3,107.3,74,3331,7.9,Low,Felt tired,FALSE,TRUE
+2/10/2025,Monday,1,Cardio,Swimming,54,693,109.6,106,141,13759,6.3,High,Felt strong,FALSE,FALSE
+2/17/2025,Monday,1,Cardio,Jump Rope,54,590,107.3,104.8,147,9363,6.5,High,Good pace,FALSE,FALSE
+2/24/2025,Monday,1,Cardio,Cycling,41,454,107.7,103.7,151,8678,7.1,High,Felt strong,FALSE,FALSE
+3/3/2025,Monday,1,Cardio,Jump Rope,76,1253,107.4,102.6,144,14744,6.1,Medium,Steady run,FALSE,FALSE
+3/10/2025,Monday,1,Cardio,Running,19,232,106.6,101.7,142,14505,6.4,High,Evening run,FALSE,FALSE
+3/17/2025,Monday,1,Cardio,Running,55,533,105.5,100.8,167,11136,7.8,High,Good pace,FALSE,FALSE
+3/24/2025,Monday,1,Cardio,Running,67,807,106.5,99.9,144,13118,9,High,Felt strong,FALSE,FALSE
+3/31/2025,Monday,1,Cardio,Running,66,587,106,99.1,162,12934,8.3,High,Felt strong,FALSE,FALSE
+4/7/2025,Monday,1,Cardio,Jump Rope,17,121,104.7,98.4,159,10535,6.3,Medium,Hot weather,FALSE,FALSE
+4/14/2025,Monday,1,Cardio,Running,54,752,104.7,97.7,151,14020,7.9,High,Good pace,FALSE,FALSE
+4/21/2025,Monday,1,Cardio,Running,40,603,102.2,97,152,12353,9.7,Medium,Intervals,FALSE,FALSE
+4/28/2025,Monday,1,Rest,Rest Day,0,0,101.9,96.4,70,5945,7.5,Low,Felt tired,TRUE,FALSE
+5/5/2025,Monday,1,Rest,Rest Day,0,0,104.4,95.9,66,3822,9.2,Low,Recovery day,TRUE,FALSE
+5/12/2025,Monday,1,Rest,Rest Day,0,0,102.1,95.3,75,5546,6.7,Low,Recovery day,FALSE,FALSE
+5/19/2025,Monday,1,Cardio,Jump Rope,30,280,101.9,94.8,158,10065,7.2,High,Evening run,FALSE,FALSE
+5/26/2025,Monday,1,Cardio,Running,37,479,101.4,94.4,158,12742,7.1,Medium,Hot weather,FALSE,FALSE
+6/2/2025,Monday,1,Rest,Rest Day,0,0,101.1,94,69,4176,8.3,Low,Recovery day,TRUE,FALSE
+6/9/2025,Monday,1,Cardio,Swimming,33,498,101.9,93.6,154,13276,8.3,High,Outdoor session,FALSE,FALSE
+6/16/2025,Monday,1,Flexibility,Yoga,26,104,101.8,93.2,86,5919,7.2,Low,Morning yoga,FALSE,FALSE
+6/23/2025,Monday,1,Cardio,Swimming,59,867,99.6,92.8,149,10151,7.3,High,Intervals,FALSE,FALSE
+6/30/2025,Monday,1,Rest,Rest Day,0,0,100.4,92.5,66,4999,7,Low,Felt tired,TRUE,FALSE
+7/7/2025,Monday,1,Cardio,Jump Rope,46,342,101.7,92.2,145,12113,7.3,High,Steady run,FALSE,FALSE
+7/14/2025,Monday,1,Cardio,Swimming,25,304,99.2,91.9,158,14259,6.8,High,Good pace,FALSE,FALSE
+7/21/2025,Monday,1,Cardio,Cycling,56,773,100.2,91.7,164,8781,8.1,Medium,Evening run,FALSE,FALSE
+7/28/2025,Monday,1,Cardio,Cycling,74,630,99.6,91.4,169,10756,7.7,High,Outdoor session,FALSE,FALSE
+8/4/2025,Monday,1,Cardio,Swimming,61,772,100,91.2,149,14344,8.1,Medium,Hot weather,FALSE,FALSE
+8/11/2025,Monday,1,Cardio,Running,46,586,98.8,91,149,13039,7.8,Medium,Outdoor session,FALSE,FALSE
+8/18/2025,Monday,1,Cardio,Swimming,68,897,97.2,90.8,153,13631,7.8,High,Evening run,FALSE,FALSE
+8/25/2025,Monday,1,Cardio,Jump Rope,42,465,97.4,90.6,153,14727,7.2,Medium,Hot weather,FALSE,FALSE
+9/1/2025,Monday,1,Cardio,Running,35,424,98.9,90.4,140,10136,7.2,Medium,Outdoor session,FALSE,FALSE
+9/8/2025,Monday,1,Cardio,Cycling,54,678,98.4,90.3,158,12253,7.1,Medium,Hot weather,FALSE,FALSE
+9/15/2025,Monday,1,Cardio,Cycling,50,478,98.7,90.1,153,13009,8.4,Medium,Felt strong,FALSE,FALSE
+9/22/2025,Monday,1,Cardio,Cycling,69,890,98.2,90,151,8585,8.1,High,Felt strong,FALSE,FALSE
+9/29/2025,Monday,1,Cardio,Cycling,56,703,97.2,89.8,169,12178,8.5,Medium,Steady run,FALSE,FALSE
+10/6/2025,Monday,1,Rest,Rest Day,0,0,99.1,89.7,71,5229,6,Low,Recovery day,FALSE,TRUE
+10/13/2025,Monday,1,Cardio,Swimming,25,287,96.5,89.6,163,12760,7.8,Medium,Intervals,FALSE,FALSE
+10/20/2025,Monday,1,Cardio,Jump Rope,40,357,98.3,89.5,156,8066,6.6,Medium,Felt strong,FALSE,FALSE
+10/27/2025,Monday,1,Cardio,Cycling,56,548,97.6,89.4,170,12770,8,Medium,Good pace,FALSE,FALSE
+1/7/2025,Tuesday,2,Strength,Bodyweight,57,390,114.4,113.2,155,8288,7.9,High,Leg day,FALSE,FALSE
+1/14/2025,Tuesday,2,Strength,Weightlifting,83,820,112.9,111.5,150,7694,8,High,Progressive overload,FALSE,FALSE
+1/21/2025,Tuesday,2,Strength,Weightlifting,69,662,113.1,109.9,131,6433,8.7,High,Progressive overload,FALSE,FALSE
+1/28/2025,Tuesday,2,Strength,Bodyweight,68,499,110.5,108.5,148,7106,7.7,Medium,Heavy lifts,FALSE,FALSE
+2/4/2025,Tuesday,2,Rest,Rest Day,0,0,111.9,107.1,73,4123,7.8,Low,Recovery day,FALSE,TRUE
+2/11/2025,Tuesday,2,Strength,Weightlifting,99,847,111.7,105.8,135,8834,9,High,Leg day,FALSE,FALSE
+2/18/2025,Tuesday,2,Strength,Weightlifting,40,412,109.2,104.6,152,7322,6.7,High,Progressive overload,FALSE,FALSE
+2/25/2025,Tuesday,2,Strength,Bodyweight,63,486,107.5,103.5,152,5195,7.2,Medium,Progressive overload,FALSE,FALSE
+3/4/2025,Tuesday,2,Strength,Weightlifting,66,402,107.5,102.5,153,5301,7.2,Medium,Core focus,FALSE,FALSE
+3/11/2025,Tuesday,2,Strength,Bodyweight,111,735,106.3,101.5,137,5167,7.6,Medium,Heavy lifts,FALSE,FALSE
+3/18/2025,Tuesday,2,Cardio,Jump Rope,37,453,107.2,100.6,163,8746,6.7,High,Evening run,FALSE,FALSE
+3/25/2025,Tuesday,2,Rest,Rest Day,0,0,104.5,99.8,69,5301,8,Low,Recovery day,FALSE,FALSE
+4/1/2025,Tuesday,2,Rest,Rest Day,0,0,106.3,99,68,3768,7.5,Low,Active rest,FALSE,FALSE
+4/8/2025,Tuesday,2,Strength,Bodyweight,74,803,106.1,98.3,159,7032,8,Medium,Core focus,FALSE,FALSE
+4/15/2025,Tuesday,2,Strength,Weightlifting,65,757,105.4,97.6,157,5092,7.3,Medium,Heavy lifts,FALSE,FALSE
+4/22/2025,Tuesday,2,Strength,Weightlifting,68,548,102.2,96.9,140,6370,9.9,Medium,Leg day,FALSE,FALSE
+4/29/2025,Tuesday,2,Rest,Rest Day,0,0,104.2,96.3,68,3301,8.1,Low,Active rest,TRUE,FALSE
+5/6/2025,Tuesday,2,Strength,Weightlifting,40,310,104,95.8,149,6725,7.4,Medium,Good form,FALSE,FALSE
+5/13/2025,Tuesday,2,Strength,Bodyweight,40,254,104.4,95.3,130,7251,7.6,High,Good form,FALSE,FALSE
+5/20/2025,Tuesday,2,Sports,Soccer,63,626,102.9,94.8,157,13072,7.4,High,Weekend scrimmage,FALSE,FALSE
+5/27/2025,Tuesday,2,Strength,Weightlifting,49,428,103.3,94.3,132,7950,6.9,High,Core focus,FALSE,FALSE
+6/3/2025,Tuesday,2,Rest,Rest Day,0,0,103,93.9,70,3116,7.4,Low,Felt tired,TRUE,FALSE
+6/10/2025,Tuesday,2,Cardio,Swimming,36,403,101.3,93.5,162,12653,8.3,Medium,Good pace,FALSE,FALSE
+6/17/2025,Tuesday,2,Cardio,Cycling,60,578,100,93.1,142,12327,7.5,Medium,Outdoor session,FALSE,FALSE
+6/24/2025,Tuesday,2,Strength,Weightlifting,31,234,101,92.8,149,6829,6.9,Medium,Good form,FALSE,FALSE
+7/1/2025,Tuesday,2,Rest,Rest Day,0,0,100.9,92.5,68,3856,7,Low,Recovery day,TRUE,FALSE
+7/8/2025,Tuesday,2,Strength,Weightlifting,39,448,102.1,92.2,136,5985,7.6,High,Heavy lifts,FALSE,FALSE
+7/15/2025,Tuesday,2,Rest,Rest Day,0,0,100.9,91.9,65,4703,7,Low,Recovery day,FALSE,FALSE
+7/22/2025,Tuesday,2,Strength,Bodyweight,30,217,99.5,91.6,132,6043,7.2,Medium,Core focus,FALSE,FALSE
+7/29/2025,Tuesday,2,Sports,Basketball,82,1079,99,91.4,159,14111,8.4,High,Intense match,FALSE,FALSE
+8/5/2025,Tuesday,2,Strength,Bodyweight,31,174,99.6,91.2,131,7128,7.3,Medium,Core focus,FALSE,FALSE
+8/12/2025,Tuesday,2,Strength,Weightlifting,43,407,99.9,91,132,5493,7.3,High,Good form,FALSE,FALSE
+8/19/2025,Tuesday,2,Strength,Weightlifting,45,381,99.5,90.8,145,8982,6.7,Medium,Core focus,FALSE,FALSE
+8/26/2025,Tuesday,2,Strength,Weightlifting,100,749,99.1,90.6,141,5144,9.8,High,Progressive overload,FALSE,FALSE
+9/2/2025,Tuesday,2,Strength,Bodyweight,52,356,100.5,90.4,140,8108,8.5,High,Progressive overload,FALSE,FALSE
+9/9/2025,Tuesday,2,Strength,Bodyweight,46,414,100,90.2,147,7316,7,Medium,Leg day,FALSE,FALSE
+9/16/2025,Tuesday,2,Strength,Weightlifting,62,490,99.3,90.1,131,6489,7.9,High,Heavy lifts,FALSE,FALSE
+9/23/2025,Tuesday,2,Strength,Bodyweight,87,1159,98.5,90,148,5090,8.1,Medium,Good form,FALSE,FALSE
+9/30/2025,Tuesday,2,Strength,Weightlifting,37,256,99.6,89.8,140,8501,6.9,Medium,Leg day,FALSE,FALSE
+10/7/2025,Tuesday,2,Rest,Rest Day,0,0,98.7,89.7,72,4051,8.2,Low,Recovery day,FALSE,TRUE
+10/14/2025,Tuesday,2,Strength,Weightlifting,46,387,97.5,89.6,142,8996,6.2,High,Progressive overload,FALSE,FALSE
+10/21/2025,Tuesday,2,Strength,Bodyweight,69,658,97.2,89.5,141,6611,7.8,High,Core focus,FALSE,FALSE
+10/28/2025,Tuesday,2,Strength,Weightlifting,49,393,98.6,89.4,140,6449,8.8,Medium,Core focus,FALSE,FALSE
+1/1/2025,Wednesday,3,Cardio,Swimming,65,793,115.4,114.7,157,10409,8.1,Medium,Good pace,FALSE,FALSE
+1/8/2025,Wednesday,3,Cardio,Jump Rope,52,872,114.9,113,142,12354,8.2,Medium,Intervals,FALSE,FALSE
+1/15/2025,Wednesday,3,Cardio,Cycling,49,535,112.4,111.3,169,14256,6.7,High,Intervals,FALSE,FALSE
+1/22/2025,Wednesday,3,Rest,Rest Day,0,0,111.7,109.7,65,4376,7.7,Low,Active rest,FALSE,FALSE
+1/29/2025,Wednesday,3,Cardio,Jump Rope,79,739,111.5,108.3,147,9218,8.1,High,Intervals,FALSE,FALSE
+2/5/2025,Wednesday,3,Rest,Rest Day,0,0,110.6,106.9,67,5507,7.9,Low,Active rest,FALSE,TRUE
+2/12/2025,Wednesday,3,Cardio,Jump Rope,28,364,111.1,105.7,147,9637,6.6,High,Felt strong,FALSE,FALSE
+2/19/2025,Wednesday,3,Cardio,Running,57,549,109.4,104.5,148,13233,6.7,Medium,Evening run,FALSE,FALSE
+2/26/2025,Wednesday,3,Rest,Rest Day,0,0,109.3,103.4,67,5749,7.9,Low,Active rest,FALSE,FALSE
+3/5/2025,Wednesday,3,Cardio,Jump Rope,55,682,108.4,102.4,149,12313,6.1,Medium,Hot weather,FALSE,FALSE
+3/12/2025,Wednesday,3,Cardio,Running,39,398,107.5,101.4,161,13651,7.1,Medium,Intervals,FALSE,FALSE
+3/19/2025,Wednesday,3,Cardio,Running,59,650,107.5,100.5,165,12197,6,High,Felt strong,FALSE,FALSE
+3/26/2025,Wednesday,3,Cardio,Swimming,27,308,105.5,99.7,146,12085,6.3,High,Hot weather,FALSE,FALSE
+4/2/2025,Wednesday,3,Cardio,Jump Rope,30,400,105.2,98.9,140,8982,7.8,High,Intervals,FALSE,FALSE
+4/9/2025,Wednesday,3,Cardio,Swimming,63,624,105.8,98.2,151,8237,10,Medium,Evening run,FALSE,FALSE
+4/16/2025,Wednesday,3,Cardio,Jump Rope,37,372,105.3,97.5,151,9268,7.5,Medium,Hot weather,FALSE,FALSE
+4/23/2025,Wednesday,3,Cardio,Cycling,26,225,103.5,96.9,156,9011,6.6,High,Hot weather,FALSE,FALSE
+4/30/2025,Wednesday,3,Rest,Rest Day,0,0,104.8,96.3,73,5803,7.6,Low,Recovery day,TRUE,FALSE
+5/7/2025,Wednesday,3,Cardio,Swimming,70,866,103.4,95.7,146,12752,8,Medium,Hot weather,FALSE,FALSE
+5/14/2025,Wednesday,3,Cardio,Cycling,44,587,103.1,95.2,145,11839,7.7,Medium,Intervals,FALSE,FALSE
+5/21/2025,Wednesday,3,Cardio,Jump Rope,76,1139,102,94.7,146,10029,7.9,Medium,Outdoor session,FALSE,FALSE
+5/28/2025,Wednesday,3,Rest,Rest Day,0,0,103.4,94.3,72,4452,8.4,Low,Felt tired,TRUE,FALSE
+6/4/2025,Wednesday,3,Rest,Rest Day,0,0,103.5,93.8,65,4715,6.8,Low,Felt tired,TRUE,FALSE
+6/11/2025,Wednesday,3,Cardio,Jump Rope,42,508,103,93.5,141,9397,7.1,Medium,Outdoor session,FALSE,FALSE
+6/18/2025,Wednesday,3,Cardio,Jump Rope,60,794,101.5,93.1,166,12262,9.4,Medium,Felt strong,FALSE,FALSE
+6/25/2025,Wednesday,3,Cardio,Running,26,233,100.7,92.8,153,12273,6,High,Evening run,FALSE,FALSE
+7/2/2025,Wednesday,3,Rest,Rest Day,0,0,102.1,92.4,73,4739,7.1,Low,Active rest,TRUE,FALSE
+7/9/2025,Wednesday,3,Cardio,Cycling,59,726,101,92.1,166,14252,7.1,Medium,Outdoor session,FALSE,FALSE
+7/16/2025,Wednesday,3,Cardio,Cycling,58,456,100.7,91.9,144,8303,8,Medium,Intervals,FALSE,FALSE
+7/23/2025,Wednesday,3,Cardio,Cycling,23,176,100,91.6,160,10445,6.7,High,Intervals,FALSE,FALSE
+7/30/2025,Wednesday,3,Cardio,Cycling,70,1154,100.2,91.4,145,11900,6,Medium,Hot weather,FALSE,FALSE
+8/6/2025,Wednesday,3,Cardio,Cycling,62,810,101.6,91.1,149,10154,8.2,High,Outdoor session,FALSE,FALSE
+8/13/2025,Wednesday,3,Cardio,Jump Rope,59,641,100.6,90.9,169,8082,6.7,High,Hot weather,FALSE,FALSE
+8/20/2025,Wednesday,3,Cardio,Cycling,27,398,99.5,90.7,153,13509,7.8,High,Good pace,FALSE,FALSE
+8/27/2025,Wednesday,3,Cardio,Swimming,47,384,99.9,90.6,142,9690,9.1,High,Good pace,FALSE,FALSE
+9/3/2025,Wednesday,3,Strength,Bodyweight,56,374,100.9,90.4,132,6270,7.7,Medium,Leg day,FALSE,FALSE
+9/10/2025,Wednesday,3,Cardio,Jump Rope,51,466,100.3,90.2,164,14573,8,Medium,Evening run,FALSE,FALSE
+9/17/2025,Wednesday,3,Cardio,Running,49,374,98.9,90.1,160,8175,6.9,Medium,Hot weather,FALSE,FALSE
+9/24/2025,Wednesday,3,Cardio,Running,56,804,100.1,89.9,155,13852,6.9,High,Steady run,FALSE,FALSE
+10/1/2025,Wednesday,3,Cardio,Cycling,48,757,98.1,89.8,160,8510,7.2,High,Outdoor session,FALSE,FALSE
+10/8/2025,Wednesday,3,Cardio,Jump Rope,38,343,98.4,89.7,163,10928,7.9,High,Felt strong,FALSE,FALSE
+10/15/2025,Wednesday,3,Cardio,Jump Rope,47,664,97.4,89.6,156,11226,7.1,High,Outdoor session,FALSE,FALSE
+10/22/2025,Wednesday,3,Rest,Rest Day,0,0,97.2,89.5,65,5244,7.7,Low,Felt tired,FALSE,FALSE
+10/29/2025,Wednesday,3,Rest,Rest Day,0,0,99.6,89.4,66,5700,6.5,Low,Active rest,FALSE,FALSE
+1/2/2025,Thursday,4,Flexibility,Stretching,25,64,115.4,114.5,94,4662,6.6,Low,Recovery session,FALSE,FALSE
+1/9/2025,Thursday,4,Sports,Basketball,70,653,114.7,112.7,165,14042,6,High,Intense match,FALSE,FALSE
+1/16/2025,Thursday,4,Flexibility,Stretching,18,79,112.4,111.1,96,6497,6.6,Low,Mobility work,FALSE,FALSE
+1/23/2025,Thursday,4,Flexibility,Stretching,45,117,112.9,109.5,84,5657,7.1,Low,Mobility work,FALSE,FALSE
+1/30/2025,Thursday,4,Flexibility,Stretching,44,153,111.3,108.1,83,4755,7.5,Low,Recovery session,FALSE,FALSE
+2/6/2025,Thursday,4,Rest,Rest Day,0,0,112.6,106.7,71,4190,6,Low,Recovery day,FALSE,TRUE
+2/13/2025,Thursday,4,Sports,Soccer,62,653,111.2,105.5,153,14113,6,High,Intense match,FALSE,FALSE
+2/20/2025,Thursday,4,Flexibility,Yoga,21,70,108.5,104.3,90,5426,6.5,Low,Morning yoga,FALSE,FALSE
+2/27/2025,Thursday,4,Flexibility,Stretching,59,131,108,103.2,99,4333,7.5,Low,Mobility work,FALSE,FALSE
+3/6/2025,Thursday,4,Flexibility,Stretching,27,86,107.8,102.2,97,5548,7.4,Low,Morning yoga,FALSE,FALSE
+3/13/2025,Thursday,4,Flexibility,Yoga,46,218,108.5,101.3,81,4433,9,Low,Morning yoga,FALSE,FALSE
+3/20/2025,Thursday,4,Flexibility,Yoga,60,286,105.8,100.4,99,4708,8,Low,Recovery session,FALSE,FALSE
+3/27/2025,Thursday,4,Flexibility,Stretching,44,142,105.5,99.6,100,5026,7.7,Low,Recovery session,FALSE,FALSE
+4/3/2025,Thursday,4,Flexibility,Yoga,27,107,106.3,98.8,88,5217,7.6,Low,Mobility work,FALSE,FALSE
+4/10/2025,Thursday,4,Flexibility,Yoga,16,44,105.6,98.1,99,6366,6.8,Low,Recovery session,FALSE,FALSE
+4/17/2025,Thursday,4,Strength,Weightlifting,43,319,104.5,97.4,133,8431,6.8,High,Leg day,FALSE,FALSE
+4/24/2025,Thursday,4,Flexibility,Stretching,18,59,103.2,96.8,93,4460,6.5,Low,Mobility work,FALSE,FALSE
+5/1/2025,Thursday,4,Rest,Rest Day,0,0,104,96.2,70,5051,7,Low,Felt tired,TRUE,FALSE
+5/8/2025,Thursday,4,Flexibility,Stretching,54,189,103.8,95.6,97,6197,8.3,Low,Mobility work,FALSE,FALSE
+5/15/2025,Thursday,4,Flexibility,Stretching,42,147,104.7,95.1,94,4856,7.8,Low,Morning yoga,FALSE,FALSE
+5/22/2025,Thursday,4,Flexibility,Yoga,40,121,102.4,94.6,81,6354,8.2,Low,Recovery session,FALSE,FALSE
+5/29/2025,Thursday,4,Rest,Rest Day,0,0,103.3,94.2,72,4995,8,Low,Active rest,TRUE,FALSE
+6/5/2025,Thursday,4,Rest,Rest Day,0,0,102.8,93.8,71,5378,7.8,Low,Recovery day,TRUE,FALSE
+6/12/2025,Thursday,4,Flexibility,Stretching,55,176,102.2,93.4,93,6297,8.5,Low,Morning yoga,FALSE,FALSE
+6/19/2025,Thursday,4,Flexibility,Stretching,43,118,102.3,93,100,5185,7.2,Low,Mobility work,FALSE,FALSE
+6/26/2025,Thursday,4,Flexibility,Yoga,38,116,101.5,92.7,96,4839,6,Low,Recovery session,FALSE,FALSE
+7/3/2025,Thursday,4,Rest,Rest Day,0,0,100.8,92.4,66,4947,6.8,Low,Recovery day,TRUE,FALSE
+7/10/2025,Thursday,4,Flexibility,Yoga,41,168,102.1,92.1,88,4068,6.8,Low,Recovery session,FALSE,FALSE
+7/17/2025,Thursday,4,Rest,Rest Day,0,0,100.8,91.8,71,5589,7.3,Low,Recovery day,FALSE,FALSE
+7/24/2025,Thursday,4,Flexibility,Stretching,41,109,99.6,91.6,94,5900,8.2,Low,Mobility work,FALSE,FALSE
+7/31/2025,Thursday,4,Flexibility,Stretching,53,216,101,91.3,98,5512,8.4,Low,Mobility work,FALSE,FALSE
+8/7/2025,Thursday,4,Flexibility,Stretching,74,160,101.1,91.1,87,6105,8,Low,Morning yoga,FALSE,FALSE
+8/14/2025,Thursday,4,Flexibility,Stretching,49,209,100.1,90.9,94,4166,8,Low,Morning yoga,FALSE,FALSE
+8/21/2025,Thursday,4,Flexibility,Stretching,22,70,99.3,90.7,88,5933,7.1,Low,Recovery session,FALSE,FALSE
+8/28/2025,Thursday,4,Flexibility,Yoga,47,154,99.3,90.5,86,6295,7.1,Low,Mobility work,FALSE,FALSE
+9/4/2025,Thursday,4,Flexibility,Yoga,20,54,99.8,90.4,100,5228,6,Low,Mobility work,FALSE,FALSE
+9/11/2025,Thursday,4,Flexibility,Stretching,32,91,98.8,90.2,82,4778,6,Low,Recovery session,FALSE,FALSE
+9/18/2025,Thursday,4,Flexibility,Yoga,41,126,98.7,90.1,99,5444,7.4,Low,Mobility work,FALSE,FALSE
+9/25/2025,Thursday,4,Flexibility,Yoga,37,142,98.6,89.9,96,6414,8,Low,Recovery session,FALSE,FALSE
+10/2/2025,Thursday,4,Flexibility,Stretching,32,111,99.7,89.8,82,5737,7.9,Low,Recovery session,FALSE,FALSE
+10/9/2025,Thursday,4,Cardio,Jump Rope,29,404,99.1,89.7,158,14465,7.6,Medium,Good pace,FALSE,FALSE
+10/16/2025,Thursday,4,Flexibility,Stretching,42,126,98.1,89.6,97,5271,6.7,Low,Mobility work,FALSE,FALSE
+10/23/2025,Thursday,4,Flexibility,Yoga,34,116,97.3,89.5,91,4741,7.7,Low,Mobility work,FALSE,FALSE
+10/30/2025,Thursday,4,Flexibility,Yoga,61,166,98.9,89.4,99,5097,6.9,Low,Morning yoga,FALSE,FALSE
+1/3/2025,Friday,5,Cardio,Swimming,42,405,115.9,114.2,141,12436,7.5,High,Good pace,FALSE,FALSE
+1/10/2025,Friday,5,Sports,Soccer,62,656,113.9,112.5,153,11273,6,High,Pickup game,FALSE,FALSE
+1/17/2025,Friday,5,Strength,Bodyweight,68,592,112,110.8,131,5760,7.2,Medium,Progressive overload,FALSE,FALSE
+1/24/2025,Friday,5,Cardio,Swimming,46,396,111,109.3,154,9616,7.1,High,Outdoor session,FALSE,FALSE
+1/31/2025,Friday,5,Cardio,Swimming,31,311,111.6,107.9,148,11724,6.7,High,Good pace,FALSE,FALSE
+2/7/2025,Friday,5,Cardio,Cycling,53,481,110,106.6,150,10735,7.5,High,Evening run,FALSE,FALSE
+2/14/2025,Friday,5,Cardio,Running,57,857,111.2,105.3,148,14443,8.2,High,Hot weather,FALSE,FALSE
+2/21/2025,Friday,5,Cardio,Cycling,66,980,108.1,104.2,160,10748,7.2,High,Outdoor session,FALSE,FALSE
+2/28/2025,Friday,5,Cardio,Swimming,51,547,108.6,103.1,155,10379,7.3,Medium,Felt strong,FALSE,FALSE
+3/7/2025,Friday,5,Cardio,Jump Rope,39,466,107.6,102.1,157,10045,7.6,High,Felt strong,FALSE,FALSE
+3/14/2025,Friday,5,Cardio,Cycling,72,880,107.1,101.1,156,11698,7.5,High,Outdoor session,FALSE,FALSE
+3/21/2025,Friday,5,Cardio,Running,14,104,105.7,100.3,167,9585,6,High,Intervals,FALSE,FALSE
+3/28/2025,Friday,5,Cardio,Running,27,346,105.5,99.4,140,12101,6.7,High,Hot weather,FALSE,FALSE
+4/4/2025,Friday,5,Cardio,Jump Rope,23,166,105.9,98.7,153,10496,6.8,Medium,Evening run,FALSE,FALSE
+4/11/2025,Friday,5,Cardio,Swimming,53,430,106.6,98,145,9422,8.4,Medium,Intervals,FALSE,FALSE
+4/18/2025,Friday,5,Rest,Rest Day,0,0,104.9,97.3,67,5418,6.2,Low,Felt tired,FALSE,FALSE
+4/25/2025,Friday,5,Cardio,Jump Rope,28,222,104.7,96.7,140,13985,7.1,High,Intervals,FALSE,FALSE
+5/2/2025,Friday,5,Rest,Rest Day,0,0,104.8,96.1,66,3873,6,Low,Recovery day,TRUE,FALSE
+5/9/2025,Friday,5,Cardio,Swimming,24,332,103.2,95.6,166,11097,6.6,Medium,Outdoor session,FALSE,FALSE
+5/16/2025,Friday,5,Cardio,Swimming,36,327,103.6,95.1,152,8099,6.8,Medium,Evening run,FALSE,FALSE
+5/23/2025,Friday,5,Cardio,Swimming,72,517,102.2,94.6,161,12123,7.2,High,Hot weather,FALSE,FALSE
+5/30/2025,Friday,5,Rest,Rest Day,0,0,102,94.1,74,4087,7.3,Low,Recovery day,TRUE,FALSE
+6/6/2025,Friday,5,Sports,Basketball,73,530,102.5,93.7,157,13376,6.7,High,Intense match,FALSE,FALSE
+6/13/2025,Friday,5,Cardio,Swimming,44,615,101.6,93.4,167,8659,6.7,Medium,Good pace,FALSE,FALSE
+6/20/2025,Friday,5,Cardio,Swimming,59,980,102.2,93,157,12678,7.6,High,Felt strong,FALSE,FALSE
+6/27/2025,Friday,5,Cardio,Jump Rope,50,618,100.5,92.7,144,12688,8.2,Medium,Evening run,FALSE,FALSE
+7/4/2025,Friday,5,Rest,Rest Day,0,0,102.1,92.4,70,4787,7.9,Low,Felt tired,TRUE,FALSE
+7/11/2025,Friday,5,Cardio,Running,53,478,100.2,92.1,145,13983,6.3,Medium,Outdoor session,FALSE,FALSE
+7/18/2025,Friday,5,Cardio,Running,44,405,100.3,91.8,147,14993,8.5,High,Hot weather,FALSE,FALSE
+7/25/2025,Friday,5,Cardio,Running,37,348,99.2,91.5,158,11274,7.9,High,Intervals,FALSE,FALSE
+8/1/2025,Friday,5,Cardio,Running,59,958,101.2,91.3,140,8784,8.1,High,Evening run,FALSE,FALSE
+8/8/2025,Friday,5,Cardio,Jump Rope,49,461,99.2,91.1,163,14430,7.1,High,Hot weather,FALSE,FALSE
+8/15/2025,Friday,5,Cardio,Swimming,46,602,100.1,90.9,148,11249,6,Medium,Outdoor session,FALSE,FALSE
+8/22/2025,Friday,5,Flexibility,Stretching,53,194,99,90.7,98,5969,8.8,Low,Recovery session,FALSE,FALSE
+8/29/2025,Friday,5,Cardio,Jump Rope,49,571,98.7,90.5,164,12651,8.6,Medium,Steady run,FALSE,FALSE
+9/5/2025,Friday,5,Cardio,Swimming,39,358,99.3,90.3,140,12788,6.7,Medium,Outdoor session,FALSE,FALSE
+9/12/2025,Friday,5,Rest,Rest Day,0,0,100,90.2,72,5128,6.9,Low,Active rest,FALSE,FALSE
+9/19/2025,Friday,5,Strength,Weightlifting,46,399,98.7,90,148,7437,8,Medium,Heavy lifts,FALSE,FALSE
+9/26/2025,Friday,5,Cardio,Swimming,54,854,97.4,89.9,159,12902,7.6,High,Steady run,FALSE,FALSE
+10/3/2025,Friday,5,Rest,Rest Day,0,0,98.7,89.8,67,5498,8.3,Low,Active rest,FALSE,TRUE
+10/10/2025,Friday,5,Cardio,Jump Rope,63,701,98.6,89.7,155,9053,8.3,Medium,Good pace,FALSE,FALSE
+10/17/2025,Friday,5,Cardio,Swimming,52,399,98.5,89.5,168,8691,7,Medium,Good pace,FALSE,FALSE
+10/24/2025,Friday,5,Cardio,Swimming,75,628,98.1,89.4,159,9472,7.1,High,Felt strong,FALSE,FALSE
+10/31/2025,Friday,5,Cardio,Running,45,482,98.7,89.3,148,10801,8.3,Medium,Outdoor session,FALSE,FALSE
+1/4/2025,Saturday,6,Strength,Bodyweight,78,633,114.4,114,143,8130,7,Medium,Core focus,FALSE,FALSE
+1/11/2025,Saturday,6,Strength,Bodyweight,49,385,113.6,112.2,160,8663,7.2,High,Upper body,FALSE,FALSE
+1/18/2025,Saturday,6,Strength,Bodyweight,66,451,111.7,110.6,143,6476,8.1,High,Core focus,FALSE,FALSE
+1/25/2025,Saturday,6,Strength,Weightlifting,78,803,112,109.1,142,5643,9.5,Medium,Upper body,FALSE,FALSE
+2/1/2025,Saturday,6,Strength,Bodyweight,24,169,109.5,107.7,133,5131,6.8,Medium,Core focus,FALSE,FALSE
+2/8/2025,Saturday,6,Strength,Weightlifting,34,252,111.3,106.4,131,8282,6.8,High,Upper body,FALSE,FALSE
+2/15/2025,Saturday,6,Rest,Rest Day,0,0,110,105.1,73,4506,7.4,Low,Active rest,FALSE,FALSE
+2/22/2025,Saturday,6,Strength,Weightlifting,31,330,107.3,104,143,8904,7.3,Medium,Core focus,FALSE,FALSE
+3/1/2025,Saturday,6,Cardio,Swimming,30,230,107.5,102.9,152,8740,7.7,High,Evening run,FALSE,FALSE
+3/8/2025,Saturday,6,Strength,Bodyweight,51,394,107.5,101.9,138,6209,7.9,High,Core focus,FALSE,FALSE
+3/15/2025,Saturday,6,Strength,Weightlifting,43,385,105.8,101,154,5875,7.9,Medium,Progressive overload,FALSE,FALSE
+3/22/2025,Saturday,6,Strength,Weightlifting,60,444,105.6,100.1,140,8129,7.8,Medium,Core focus,FALSE,FALSE
+3/29/2025,Saturday,6,Sports,Soccer,75,699,105.3,99.3,171,13299,8.9,High,Intense match,FALSE,FALSE
+4/5/2025,Saturday,6,Strength,Weightlifting,45,418,104.5,98.6,157,5129,6,High,Upper body,FALSE,FALSE
+4/12/2025,Saturday,6,Strength,Bodyweight,56,481,104.6,97.9,143,5958,7.6,Medium,Good form,FALSE,FALSE
+4/19/2025,Saturday,6,Strength,Bodyweight,35,296,103.3,97.2,135,7417,7.1,Medium,Upper body,FALSE,FALSE
+4/26/2025,Saturday,6,Strength,Weightlifting,31,290,103.8,96.6,156,8842,7.6,Medium,Heavy lifts,FALSE,FALSE
+5/3/2025,Saturday,6,Rest,Rest Day,0,0,103.1,96,70,5703,6.8,Low,Felt tired,TRUE,FALSE
+5/10/2025,Saturday,6,Sports,Basketball,96,875,102.6,95.5,155,12369,8.9,High,Weekend scrimmage,FALSE,FALSE
+5/17/2025,Saturday,6,Sports,Soccer,54,416,103.4,95,174,12694,8.1,High,Pickup game,FALSE,FALSE
+5/24/2025,Saturday,6,Strength,Bodyweight,95,765,100.4,94.5,136,5197,8.5,Medium,Heavy lifts,FALSE,FALSE
+5/31/2025,Saturday,6,Rest,Rest Day,0,0,100.8,94.1,70,4786,7.3,Low,Recovery day,TRUE,FALSE
+6/7/2025,Saturday,6,Strength,Bodyweight,25,196,101.8,93.7,159,6162,6.4,Medium,Good form,FALSE,FALSE
+6/14/2025,Saturday,6,Cardio,Jump Rope,31,340,100.7,93.3,169,10680,7.7,High,Felt strong,FALSE,FALSE
+6/21/2025,Saturday,6,Strength,Weightlifting,36,275,101.3,92.9,142,8489,6.7,Medium,Good form,FALSE,FALSE
+6/28/2025,Saturday,6,Rest,Rest Day,0,0,100.1,92.6,73,5956,7.2,Low,Active rest,TRUE,FALSE
+7/5/2025,Saturday,6,Rest,Rest Day,0,0,100.3,92.3,71,5079,6.8,Low,Recovery day,TRUE,FALSE
+7/12/2025,Saturday,6,Strength,Bodyweight,63,621,99.5,92,139,8782,6.4,Medium,Core focus,FALSE,FALSE
+7/19/2025,Saturday,6,Strength,Weightlifting,39,216,99.5,91.8,148,8691,7.4,Medium,Core focus,FALSE,FALSE
+7/26/2025,Saturday,6,Strength,Bodyweight,33,252,99.8,91.5,136,5226,7.1,High,Progressive overload,FALSE,FALSE
+8/2/2025,Saturday,6,Strength,Bodyweight,57,450,100.6,91.3,131,7391,7.7,Medium,Progressive overload,FALSE,FALSE
+8/9/2025,Saturday,6,Strength,Weightlifting,82,696,98.8,91,142,6049,8.7,High,Progressive overload,FALSE,FALSE
+8/16/2025,Saturday,6,Strength,Bodyweight,46,487,97.9,90.8,151,8174,6.7,Medium,Good form,FALSE,FALSE
+8/23/2025,Saturday,6,Strength,Weightlifting,57,496,97.3,90.7,155,7715,6,High,Upper body,FALSE,FALSE
+8/30/2025,Saturday,6,Strength,Bodyweight,56,465,99.2,90.5,142,7101,6.1,High,Progressive overload,FALSE,FALSE
+9/6/2025,Saturday,6,Strength,Weightlifting,71,612,98.7,90.3,135,5661,9.2,High,Core focus,FALSE,FALSE
+9/13/2025,Saturday,6,Strength,Bodyweight,42,304,98.8,90.2,158,7371,7.1,High,Leg day,FALSE,FALSE
+9/20/2025,Saturday,6,Strength,Weightlifting,35,240,98.8,90,134,6949,7.7,Medium,Good form,FALSE,FALSE
+9/27/2025,Saturday,6,Strength,Weightlifting,51,389,98.3,89.9,155,5966,8.5,High,Progressive overload,FALSE,FALSE
+10/4/2025,Saturday,6,Rest,Rest Day,0,0,97.9,89.8,65,4431,7.8,Low,Active rest,FALSE,TRUE
+10/11/2025,Saturday,6,Strength,Bodyweight,48,440,99,89.6,145,7099,6.9,Medium,Good form,FALSE,FALSE
+10/18/2025,Saturday,6,Strength,Weightlifting,50,358,97.7,89.5,138,7653,6.4,Medium,Core focus,FALSE,FALSE
+10/25/2025,Saturday,6,Strength,Bodyweight,31,211,97.9,89.4,131,7750,7.7,Medium,Core focus,FALSE,FALSE
+1/5/2025,Sunday,7,Rest,Rest Day,0,0,113.7,113.7,67,3924,8.1,Low,Recovery day,FALSE,FALSE
+1/12/2025,Sunday,7,Rest,Rest Day,0,0,113.3,112,68,4214,7.4,Low,Felt tired,FALSE,FALSE
+1/19/2025,Sunday,7,Rest,Rest Day,0,0,111.5,110.4,71,4067,6.9,Low,Recovery day,FALSE,FALSE
+1/26/2025,Sunday,7,Rest,Rest Day,0,0,110.3,108.9,68,5464,8.9,Low,Active rest,FALSE,FALSE
+2/2/2025,Sunday,7,Rest,Rest Day,0,0,111.3,107.5,71,3440,8.9,Low,Felt tired,FALSE,TRUE
+2/9/2025,Sunday,7,Rest,Rest Day,0,0,109.9,106.2,69,5980,6.8,Low,Recovery day,FALSE,FALSE
+2/16/2025,Sunday,7,Rest,Rest Day,0,0,108.9,105,75,3606,8,Low,Felt tired,FALSE,FALSE
+2/23/2025,Sunday,7,Rest,Rest Day,0,0,108.2,103.8,65,3975,7.2,Low,Felt tired,FALSE,FALSE
+3/2/2025,Sunday,7,Rest,Rest Day,0,0,107,102.8,70,5320,7.4,Low,Recovery day,FALSE,FALSE
+3/9/2025,Sunday,7,Rest,Rest Day,0,0,107.5,101.8,71,3447,8.6,Low,Felt tired,FALSE,FALSE
+3/16/2025,Sunday,7,Rest,Rest Day,0,0,106.4,100.9,67,4943,7.5,Low,Active rest,FALSE,FALSE
+3/23/2025,Sunday,7,Rest,Rest Day,0,0,104.9,100,74,4355,6.4,Low,Active rest,FALSE,FALSE
+3/30/2025,Sunday,7,Rest,Rest Day,0,0,104.8,99.2,74,4161,8.8,Low,Recovery day,FALSE,FALSE
+4/6/2025,Sunday,7,Rest,Rest Day,0,0,105.2,98.5,69,3625,6.3,Low,Active rest,FALSE,FALSE
+4/13/2025,Sunday,7,Rest,Rest Day,0,0,104.6,97.8,70,5917,7.3,Low,Active rest,FALSE,FALSE
+4/20/2025,Sunday,7,Rest,Rest Day,0,0,103,97.1,69,3936,8.3,Low,Active rest,FALSE,FALSE
+4/27/2025,Sunday,7,Rest,Rest Day,0,0,104.2,96.5,71,5830,6.1,Low,Active rest,TRUE,FALSE
+5/4/2025,Sunday,7,Rest,Rest Day,0,0,102.9,95.9,70,5971,8.1,Low,Active rest,TRUE,FALSE
+5/11/2025,Sunday,7,Rest,Rest Day,0,0,101.8,95.4,72,3993,6.7,Low,Active rest,FALSE,FALSE
+5/18/2025,Sunday,7,Rest,Rest Day,0,0,103,94.9,69,5171,6.4,Low,Recovery day,FALSE,FALSE
+5/25/2025,Sunday,7,Rest,Rest Day,0,0,102.2,94.5,72,4768,7.4,Low,Active rest,FALSE,FALSE
+6/1/2025,Sunday,7,Rest,Rest Day,0,0,102.6,94,68,3941,7.4,Low,Active rest,TRUE,FALSE
+6/8/2025,Sunday,7,Rest,Rest Day,0,0,100.8,93.6,74,4031,7.3,Low,Felt tired,FALSE,FALSE
+6/15/2025,Sunday,7,Rest,Rest Day,0,0,99.8,93.2,67,5378,8.8,Low,Recovery day,FALSE,FALSE
+6/22/2025,Sunday,7,Rest,Rest Day,0,0,99.5,92.9,73,5773,6.4,Low,Recovery day,FALSE,FALSE
+6/29/2025,Sunday,7,Rest,Rest Day,0,0,100.7,92.6,66,3419,8.8,Low,Active rest,TRUE,FALSE
+7/6/2025,Sunday,7,Rest,Rest Day,0,0,100.6,92.3,70,5232,6.4,Low,Active rest,FALSE,FALSE
+7/13/2025,Sunday,7,Rest,Rest Day,0,0,100.4,92,66,4123,6.7,Low,Active rest,FALSE,FALSE
+7/20/2025,Sunday,7,Rest,Rest Day,0,0,100,91.7,65,3698,8.4,Low,Recovery day,FALSE,FALSE
+7/27/2025,Sunday,7,Rest,Rest Day,0,0,99.1,91.5,69,5270,8.5,Low,Active rest,FALSE,FALSE
+8/3/2025,Sunday,7,Rest,Rest Day,0,0,101.2,91.2,70,3711,8.3,Low,Felt tired,FALSE,FALSE
+8/10/2025,Sunday,7,Rest,Rest Day,0,0,98.2,91,68,5384,8,Low,Recovery day,FALSE,FALSE
+8/17/2025,Sunday,7,Rest,Rest Day,0,0,98.9,90.8,73,4713,6,Low,Felt tired,FALSE,FALSE
+8/24/2025,Sunday,7,Rest,Rest Day,0,0,98.8,90.6,65,4345,7.4,Low,Felt tired,FALSE,FALSE
+8/31/2025,Sunday,7,Rest,Rest Day,0,0,98,90.5,68,4252,7.8,Low,Active rest,FALSE,FALSE
+9/7/2025,Sunday,7,Rest,Rest Day,0,0,98.7,90.3,66,3496,8.5,Low,Felt tired,FALSE,FALSE
+9/14/2025,Sunday,7,Rest,Rest Day,0,0,98.6,90.1,71,3811,7.2,Low,Felt tired,FALSE,FALSE
+9/21/2025,Sunday,7,Rest,Rest Day,0,0,97.7,90,66,5508,7.2,Low,Active rest,FALSE,FALSE
+9/28/2025,Sunday,7,Rest,Rest Day,0,0,98.8,89.9,66,4242,8.6,Low,Recovery day,FALSE,FALSE
+10/5/2025,Sunday,7,Rest,Rest Day,0,0,98.2,89.7,72,4405,6,Low,Recovery day,FALSE,TRUE
+10/12/2025,Sunday,7,Rest,Rest Day,0,0,97.2,89.6,68,4521,6.1,Low,Active rest,FALSE,FALSE
+10/19/2025,Sunday,7,Rest,Rest Day,0,0,96.4,89.5,68,3610,7.1,Low,Recovery day,FALSE,FALSE
+10/26/2025,Sunday,7,Rest,Rest Day,0,0,98.1,89.4,73,3040,7.7,Low,Felt tired,FALSE,FALSE
