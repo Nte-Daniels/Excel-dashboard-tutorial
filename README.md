@@ -1,4 +1,4 @@
-# Excel-dashboard-tutorial - resources
+# Project-tutorial - resources
 This repository contains all the materials used in my Excel tutorial on YouTube.
 
 ## What's Inside
